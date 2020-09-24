@@ -1,0 +1,261 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+#head {
+	background-color:#292c2f;
+	box-shadow:0 1px 1px #ccc;
+	padding: 20px 40px;
+	color: #ffffff;
+	box-sizing: border-box;
+}
+#logo {
+	width: 150px;
+	height: 94px;	
+	display: inline-block;
+	margin-left: 2%;
+	width: 180px;
+	float: left;
+}
+.header p {
+	font-size: 12px;
+	float: left;
+}
+#biggestImage {
+
+	padding-top: 3.5%;
+	margin-left: 1%;
+	margin-left: 1%;
+	width: 1240px;
+}
+.header-right {
+  float: right;
+  padding-right: 1%;
+  margin-right: 10px;
+  color: white;
+}
+
+.header {
+	margin-left: 247px;
+	margin-top: 20px;
+	margin-bottom: 1%;
+}
+.header p {
+
+	font-size: 12px;
+	float: left;
+}
+#searchBar {
+	margin-left: 1%;	
+}
+.hoverMenu {
+	margin-top: 60px;
+	margin-left: 0px;
+	padding-left: 0px;
+	padding-top: 25px;
+	padding-bottom: 19px;
+	background: #a93034;
+	width: 250px;
+	float: left;	
+
+}
+.inHover {
+	font-weight: 700;
+	font-size: 17px;
+	margin-top: 10%;
+	margin-left: 35px;
+	color: #ffffff;
+	line-height: 35px;
+}
+.smallImage {
+	margin-left: 1.4%;
+	margin-top: 1%;
+	margin-right: 1%;
+	width: 280px;
+	height: 280px;
+	float: left;
+}
+
+#horizontalImage {
+	width: 1200px;
+	height: 40px;
+	object-fit: cover;
+	margin-left: 20px;
+	margin-right: 45px;
+	margin-top: 1%;
+	margin-bottom: 50px;
+	float: right;
+}
+
+h2	{
+	text-transform: uppercase;
+	font-weight: 10px;
+}
+.header-right {
+  float: right;
+  padding-right: 1%;
+  margin-right: 10px;
+
+} .header {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 20px 10px;
+}
+
+.header a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+}
+.header a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.header a.active {
+  background-color: #f6931e;
+  color: white;
+}
+
+p a:hover {
+	color: #ffd701;
+	font-size: 20px;
+}
+.today {
+	padding-right:15px;
+	color: #ffffff;
+
+}
+.emailD{
+	padding-right: 15px;
+	color: #ffffff}
+.wfh{
+	padding-right: 15px;
+	color: #ffffff;
+}
+.paragraph a:hover {
+	color: #ffd701;
+}
+.ads {
+	position: absolute;
+	display: inline-block;
+	height: 900px;
+	width: 350px;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+
+/*Mel's code*/
+
+/*#logo {
+	width: 10%;
+	height: auto;
+	float: left;
+}*/
+
+.navbar-horizontal {
+	margin-top: 1%;
+	margin-right: -15px;
+}
+
+.btn {
+	margin-top: 1%;
+	margin-left: 0.5%;
+	margin-right: 0px;
+}
+
+.navbar-default {
+	background: #292c2f;
+	margin-bottom: 0%;
+	border: 0px;
+}
+
+.active a {
+	background: #f6931e !important;
+	margin-bottom
+}
+
+.nav.navbar-nav.navbar-right li a {
+	margin-top: 6%;
+    color: white;
+}
+
+.logo {
+	color: white;
+}
+
+
+#submit {
+/*	margin-right: 200px;*/
+	color: white;
+	border-color: #f6931e !important;
+	background: #f6931e !important;
+}
+
+.btn-warning {
+	margin-top: 16%;
+	background: #f6931e !important;
+}
+
+#logoName {
+	margin-left: 15%;
+	margin-top: 4%;
+}
+
+.thumbnail {
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+#monitor {
+	margin-left: 45%;
+}
+
+#motherboard {
+	margin-left: 29.5%;
+}
+
+#processor {
+	margin-left: 37.5%;
+}
+
+#graphics {
+	margin-left: 25.5%;
+}
+
+#casing {
+	margin-left: 47%; 
+}
+
+#RAM {
+	margin-left: 53%;
+}
+
+#PSU {
+	margin-left: 26.5%
+}
+
+#Speaker {
+	margin-left: 43%;
+}
+
+#Headset {
+	margin-left: 42%;
+}
+
+#Keyboard {
+	margin-left: 38.5%;
+}
+
+#Cfan {
+	margin-left: 31%;
+}
+
+#others {
+	margin-left: 46.5%
+}
